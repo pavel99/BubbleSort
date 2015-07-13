@@ -1,0 +1,6 @@
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\bin\Debug\Bublesort.exe.config
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\bin\Debug\Bublesort.exe
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\bin\Debug\Bublesort.pdb
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\obj\Debug\Bublesort.csprojResolveAssemblyReference.cache
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\obj\Debug\Bublesort.exe
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\Bublesort\Bublesort\obj\Debug\Bublesort.pdb
